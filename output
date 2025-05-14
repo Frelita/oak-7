@@ -1,0 +1,11 @@
+Simulasi tanpa koherensi...
+Total cache traffic tanpa koherensi: 191
+
+ Simulasi dengan koherensi (MSI)...
+Total cache traffic dengan koherensi: 186
+Total pesan koherensi: 4
+
+ Perbandingan:
+➤ Cache Traffic (Tanpa): 191
+➤ Cache Traffic (Dengan): 186
+➤ Pesan Koherensi: 4
